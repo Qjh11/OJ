@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "mm_malloc.h": "c",
+        "random": "cpp",
+        "vector": "cpp",
+        "__bit_reference": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
